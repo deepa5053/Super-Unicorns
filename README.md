@@ -9,7 +9,7 @@ Soheila: Our creative visionary, her design concepts and interactive prototypes 
 
 Highlights of Our Project:
 
-Developed an interactive Figma prototype for an meeting booking app, encompassing crucial functionalities such as scheduling, room booking, participant communication, and document sharing.
+Developed an interactive Figma prototype for a meeting booking app, encompassing crucial functionalities such as scheduling, room booking, participant communication, and document sharing.
 Implemented a variant of the Kanban methodology using Trello boards, facilitating streamlined task management and comprehensive workflow visualization.
 Conducted a thorough retrospective, leveraging insights to refine our processes and foster continuous improvement.
 
