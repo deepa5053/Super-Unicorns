@@ -21,7 +21,7 @@ Conducted a thorough retrospective, leveraging insights to refine our processes 
 [Link to Figma Prototype]
 
 📝 Access  into Our Trello Board:
-[Link to Trello Board]
+(https://trello.com/invite/b/WVvhXgJW/ATTI3330d6c8849f07a30eb737b70537900aCF6CAAB0/super-unicorns)
 
 Thank You:
 
