@@ -18,7 +18,7 @@ Conducted a thorough retrospective, leveraging insights to refine our processes 
 [Retro Figma.docx](https://github.com/deepa5053/Super-Unicorns/files/15246523/Retro.Figma.docx)
 
 🔍 Explore Our Figma Prototype:
-[Link to Figma Prototype]
+(https://www.figma.com/file/AmrnfrcVGr4d2DTpuJxiU8/Super-Unicorns?type=design&node-id=0%3A1&mode=design&t=nJKaTZ17AmeiLpqR-1)
 
 📝 Access  into Our Trello Board:
 (https://trello.com/invite/b/WVvhXgJW/ATTI3330d6c8849f07a30eb737b70537900aCF6CAAB0/super-unicorns)
